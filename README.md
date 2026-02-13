@@ -51,15 +51,17 @@ Durante o desenvolvimento, foram utilizados diferentes tipos de inputs e control
 # Clone o repositório
 git clone https://github.com/gabrielsousaoli/Projeto-Formulario-de-Matricula
 
----
-
-## 👨‍💻 Autor
-
-Feito com 💜 por **<Seu Nome>**  
-🔗 LinkedIn: https://www.linkedin.com/in/j-gabriel-s-oliveira-63449375/
-🐙 GitHub: https://github.com/gabrielsousaoli
-
 # Entre na pasta do projeto
 cd <Projeto-Formulario-de-Matricula>
 
 # Abra o arquivo index.html no navegador
+
+---
+
+## 👨‍💻 Autor
+
+Feito com 💜 por **Gabriel Sousa**  
+🔗 LinkedIn: https://www.linkedin.com/in/j-gabriel-s-oliveira-63449375/
+🐙 GitHub: https://github.com/gabrielsousaoli
+
+
